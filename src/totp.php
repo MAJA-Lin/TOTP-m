@@ -24,7 +24,7 @@
 	// Generate TOTP
 	$totp_generated=oauth_totp($SEED, $rounded_time, $DIGITS, $ALGORITHM);
 
-	echo '<h1>'.$totp_generated."</h1>";
+	echo '<h3>'.$totp_generated."</h3>";
 	echo "time to expire: ".$time_to_expire."s";
 
  ?>
