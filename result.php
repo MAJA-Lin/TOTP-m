@@ -10,9 +10,9 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<?php
 
-			include_once 'src\oauth_totp.php';
-			include_once 'src\base32.php';
-			include_once 'src\phpqrcode.php';
+			include_once 'src/oauth_totp.php';
+			include_once 'src/base32.php';
+			include_once 'src/phpqrcode.php';
 
 
 			//Pass from form.html
