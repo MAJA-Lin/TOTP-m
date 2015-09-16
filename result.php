@@ -71,7 +71,7 @@
 		</div>
 
 		<div data-role="content" >
-			<h3>Here's your OPT</h3>
+			<h3>First number is your OPT, second number is remaining time .</h3>
 
 			<div class="content-primary">
 			<!--
